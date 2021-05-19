@@ -4,7 +4,7 @@
  * @Author: Andrew
  * @Date: 2021-05-19 16:41:28
  * @LastEditors: Andrew
- * @LastEditTime: 2021-05-19 17:17:08
+ * @LastEditTime: 2021-05-19 17:18:37
 -->
 # few-shot_learning
 some classic metric-based few-shot learning methods based on pytorch 1.x
@@ -17,6 +17,7 @@ some classic metric-based few-shot learning methods based on pytorch 1.x
 **CV**
 - [X] miniImagenet
 - [X] Omniglot
+
 **NLP**
 - [X] FewRel
 
